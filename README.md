@@ -56,26 +56,21 @@ Frontend runs on `http://localhost:4200` (proxies API to backend).
 1. **Start Backend** (in `server/`):
    ```
    npm install
-   node index.js
+   npm run build or npm start
    ```
-   *Or with nodemon: `npx nodemon index.js`*
    
    Expected: `Server running on port 5000` & `Connected to MongoDB`
 
 2. **Start Frontend** (in `client/`, new terminal):
    ```
    npm install
-   ng serve
+   node index.js
    ```
 
 3. Open `http://localhost:4200` in browser.
    - Register/login
    - Create/view/update/delete tasks on Dashboard
    - View analytics
-
-**Production Build**:
-- Frontend: `ng build --prod` (outputs to `dist/`)
-- Backend: `node index.js`
 
 ## API Endpoints
 All endpoints prefixed with `/api`. Auth required for protected routes (JWT in `Authorization: Bearer <token>`).
@@ -129,8 +124,6 @@ d:/task-manager/
 └── README.md
 ```
 
-## Contributing
-Fork, create branch, PR. Lint with Angular/ESLint standards.
 
 ---
 *Built with ❤️ for task management*
