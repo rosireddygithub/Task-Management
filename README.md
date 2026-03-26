@@ -37,7 +37,6 @@ Full-stack task management application built with **Angular 18** (frontend), **N
    JWT_SECRET=your_super_secret_jwt_key_here
    ```
    *(Replace `MONGO_URI` with your MongoDB connection string)*
-4. *(Optional) Use nodemon for dev: already in devDeps*
 
 Backend runs on `http://localhost:5000`.
 
