@@ -42,5 +42,7 @@ export class AppComponent implements OnInit {
 
   logout() {
     this.authService.logout();
+    this.toastService.show('Logged out successfully!', 'success'); 
+
   }
 }
