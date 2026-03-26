@@ -2,7 +2,9 @@
 
 Full-stack task management application built with **Angular 18** (frontend), **Node.js/Express** (backend), and **MongoDB** (database). Features user authentication, task CRUD operations, and analytics dashboard with charts.
 
-![Dashboard Screenshot Placeholder]([https://via.placeholder.com/800x400?text=Task+Manager+Dashboard](https://www.bing.com/images/search?view=detailV2&ccid=4hLNhnwr&id=69A78CBEC805BB6F6CEAA66E2FEEF0ED8BDA8505&thid=OIP.4hLNhnwrszdtf0jrqmpchQHaCi&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f7%2f77%2fGoogle_Images_2015_logo.svg%2f1200px-Google_Images_2015_logo.svg.png&exph=412&expw=1200&q=google+images&FORM=IRPRST&ck=C92EBAC99384FEF847D7A8000918305D&selectedIndex=1&itb=1) *(Replace with actual screenshot)*
+## Dashboard Preview
+
+![Dashboard Screenshot](assets/dashboard.png)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
