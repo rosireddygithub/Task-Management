@@ -6,7 +6,7 @@ Full-stack task management application built with **Angular 18** (frontend), **N
 
 <p align="center">
   <img src="assets/Dashboard.png" width="800"/><br><br>
-  <img src="assets/1st" width="800"/><br><br>
+  <img src="assets/1st.png" width="800"/><br><br>
   <img src="assets/2nd.png" width="800"/>
    <img src="assets/3rd.png" width="800"/>
 </p>
