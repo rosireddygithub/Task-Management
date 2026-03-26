@@ -4,7 +4,7 @@ Full-stack task management application built with **Angular 18** (frontend), **N
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](assets/Dashboard.png)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
